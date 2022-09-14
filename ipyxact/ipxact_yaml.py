@@ -121,6 +121,7 @@ field:
     volatile: IpxactBool
     access: str
   CHILD:
+    - parameters
     - resets
     - enumeratedValues
 file:

@@ -5,7 +5,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "ipyxact",
+    name = "steve-ede-ipyxact",
     version = "0.3.2",
     author = "Olof Kindgren",
     author_email = "olof.kindgren@gmail.com",
